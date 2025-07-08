@@ -1,1 +1,1 @@
-alert("Hello , Jenkins Pipeline ");
+console.log("Hello , Jenkins Pipeline ");
